@@ -132,4 +132,4 @@ const Loggedin = ({
   );
 };
 
-export default LoggedIn;
+export default Loggedin;
